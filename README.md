@@ -27,6 +27,10 @@ A modern AI-powered chat application built with the MERN stack (MongoDB, Express
 - OpenAI API integration
 - TypeScript
 
+
+##Demo
+[Watch Video](./demo(1).mp4)
+
 ## Getting Started
 
 ### Prerequisites
